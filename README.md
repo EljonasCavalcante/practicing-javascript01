@@ -3,7 +3,7 @@
 Chegou a hora de provar a si mesmo que todo o seu esforço está valendo a pena até aqui. Praticamos, conhecimentos adquiridos. No curso em video administrado pelo Gustavo Guanabara.
 
   * <h2> Estrutura HTML </h2>
-  <img   src="img/project template.png" alt="project template">
+  <img   src="project template.png" alt="project template">
   <br>
   <br>
 
@@ -14,5 +14,5 @@ Chegou a hora de provar a si mesmo que todo o seu esforço está valendo a pena 
    horário do dia.
    <br>
    <br>
-     <img   src="img/exemplo.jpg" alt="porject example">
+     <img   src="exemplo.jpg" alt="porject example">
 
