@@ -15,4 +15,13 @@ Chegou a hora de provar a si mesmo que todo o seu esforço está valendo a pena 
    <br>
    <br>
      <img   src="exemplo.jpg" alt="porject example">
+     <br>
+   <br>
+
+
+* <h2> Segundo exercício - Verificador de idade <h2>
+
+Usando o javascript para realizar consulta de idade e mudanças dinâmicas no frontend.
+
+<img   src="pag1.jpg" alt="porject example">
 
