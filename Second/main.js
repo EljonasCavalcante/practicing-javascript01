@@ -1,3 +1,8 @@
+document.addEventListener('keydown', function(e) {
+  if(e.key == "Enter") {
+    document.getElementById('btn').click()
+  }
+})
 
 function verificar() {
   var data = new Date()
