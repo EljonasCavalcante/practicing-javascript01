@@ -15,8 +15,8 @@ Chegou a hora de provar a si mesmo que todo o seu esforço está valendo a pena 
    <br>
    <br>
    
-     <img   src="exemplo.jpg" alt="porject example">
-     <br>
+     
+   
    <br>
 
 
